@@ -13,3 +13,5 @@ _O(n^1.5)_. This implementation demonstrates use of a simple
 divide-and-conquer strategy for the Pohlig-Hellman algorithm used
 internally, that leads to a complexity of _O(n*log n)_, and in practice
 seems to be as good or even better than previously known solutions.
+
+The detailed description of the algorithm is in [modsqrt.pdf](modsqrt.pdf).
